@@ -18,9 +18,5 @@ end
   end
 
 def find_min_value(array)
-  result = 0 
-  while result < array.size 
-    result = array.min 
-end
-  return result
+
 end
